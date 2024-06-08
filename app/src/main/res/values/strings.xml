@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Asclepius</string>
+    <string name="gallery" translatable="false">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result" translatable="false">Hasil Analisis</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="image_is_empty">Image is empty. Please select correct photo</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="history">History</string>
+    <string name="article">Article</string>
+    <string name="delete_history">Delete History</string>
+    <string name="hasil_analisa" translatable="false">Hasil Analisa</string>
+    <string name="date">date</string>
+    <string name="go_to_article">Go to Article</string>
+    <string name="description">description</string>
+    <string name="title">title</string>
+    <string name="gambar_analisa" translatable="false">Gambar Analisa</string>
+</resources>
